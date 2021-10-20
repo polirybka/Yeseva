@@ -534,8 +534,44 @@ left:0px;
 }
 .smallflower5{
   position: absolute;
-  width: 129px;
-  height: 450px;
-  top: 7550px;
-  left:82px;
+  width: 432px;
+  height: 479px;
+  top: 7532px;
+  left:1036px;
+}
+.durer1{
+  position: absolute;
+  width: 84px;
+  height: 119px;
+  top: 1484px;
+  left:836px;
+}
+.durer2{
+  position: absolute;
+  width: 84px;
+  height: 119px;
+  top: 3767px;
+  left:432px;
+}
+.durer3{
+  position: absolute;
+  width: 84px;
+  height: 119px;
+  top: 5752px;
+  left:1025px;
+}
+.ж1{
+  position: absolute;
+  width: 496.7px;
+  height: 325.67px;
+  top: 5888.28px;
+  left:206px;
+}
+.ж2{
+  position: absolute;
+  width: 220.68px;
+  height: 160.66px;
+  top: 6299.74px;
+  left:719.73px;
+  transform: rotate(-14.32deg);
 }
