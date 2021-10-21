@@ -143,11 +143,11 @@ body {
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 27px;
-  top:1920px;
-  left: 428px;
-  width: 255px;
-  height: 42px;
+  font-size: 210px;
+  top:2157px;
+  left: 922px;
+  width: 128px;
+  height: 243px;
 }
 .txt11{
   color: black;
@@ -163,11 +163,11 @@ body {
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 27px;
-  top:1920px;
-  left: 428px;
-  width: 255px;
-  height: 42px;
+  font-size: 210px;
+  top:2478px;
+  left: 539px;
+  width: 132px;
+  height: 243px;
 }
 .txt13{
   color: black;
@@ -218,6 +218,7 @@ body {
   left: 640px;
   width: 528px;
   height: 128px;
+  line-height: 31px;
 }
 .txt18{
   color: black;
@@ -236,7 +237,7 @@ body {
   font-size: 27px;
   top:4523px;
   left: 49px;
-  width: 320px;
+  width: 350px;
   height: 33px;
 }
 .txt20{
@@ -246,7 +247,7 @@ body {
   font-size: 100px;
   top:4568px;
   left: 221px;
-  width: 857px;
+  width: 1280px;
   height: 91px;
 }
 .txt21{
@@ -256,7 +257,7 @@ body {
   font-size: 27px;
   top:4787px;
   left: 49px;
-  width: 316px;
+  width: 350px;
   height: 31px;
 }
 .txt22{
@@ -266,7 +267,7 @@ body {
   font-size: 200px;
   top:4791px;
   left: -126px;
-  width: 1714px;
+  width: 2500px;
   height: 231px;
 }
 .txt23{
@@ -276,7 +277,7 @@ body {
   font-size: 27px;
   top:5101px;
   left: 49px;
-  width: 316px;
+  width: 350px;
   height: 36px;
 }
 .txt24{
@@ -286,7 +287,7 @@ body {
   font-size: 400px;
   top:5022px;
   left: -832px;
-  width: 3427px;
+  width: 4000px;
   height: 462px;
 }
 .txt25{
@@ -301,81 +302,83 @@ body {
   line-height: 31px;
 }
 .txt26{
-  color: black;
+  color: white;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 20px;
-  top:5713px;
-  left: 932px;
-  width: 171px;
-  height: 46px;
-  line-height: 31px;
+  font-size: 64px;
+  top:6670px;
+  left: 10px;
+  right: 10px;
+  width: 1261px;
+  height: 645px;
+  line-height: 74px;
+  text-align: center;
 }
 .txt27{
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 20px;
-  top:5713px;
-  left: 932px;
-  width: 171px;
-  height: 46px;
+  font-size: 64px;
+  top: 7518px;
+  left: 223px;
+  width: 39px;
+  height: 74px;
 }
 .txt28{
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 20px;
-  top:5713px;
-  left: 932px;
-  width: 171px;
-  height: 46px;
+  font-size: 64px;
+  top: 7806px;
+  left: 269px;
+  width: 52px;
+  height: 59px;
 }
 .txt29{
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 20px;
-  top:5713px;
-  left: 932px;
-  width: 171px;
-  height: 46px;
+  font-size: 64px;
+  top: 7675px;
+  left: 460px;
+  width: 35px;
+  height: 60px;
 }
 .txt30{
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 20px;
-  top:5713px;
-  left: 932px;
-  width: 171px;
-  height: 46px;
+  font-size: 64px;
+  top: 7577px;
+  left: 708px;
+  width: 47px;
+  height: 63px;
 }
 .txt31{
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 20px;
-  top:5713px;
-  left: 932px;
-  width: 171px;
-  height: 46px;
+  font-size: 64px;
+  top:7839px;
+  left: 746px;
+  width: 60px;
+  height: 61px;
 }
 .txt32{
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 20px;
-  top:5713px;
-  left: 932px;
-  width: 171px;
-  height: 46px;
+  font-size: 64px;
+  top: 7806px;
+  left: 989px;
+  width: 63px;
+  height: 67px;
 }
 .txt33{
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  text-align: center;
+  text-align:center;
   font-size: 64px;
   top:8122px;
   left: -56px;
@@ -490,6 +493,13 @@ left:0px;
   top: 8888.52px;
   left:0px;
 }
+.eva1{
+  position: absolute;
+  width: 260px;
+  height: 629px;
+  top: 6613px;
+  left:536px;
+}
 .eva2{
   position: absolute;
   width: 414px;
@@ -574,4 +584,63 @@ left:0px;
   top: 6299.74px;
   left:719.73px;
   transform: rotate(-14.32deg);
+}
+.wow{
+  background-image: url(image/ирис.png);
+background-position: 727px -105px ;
+  background-origin: padding-box;
+  background-size: 555px 1927px;
+  background-attachment:local;
+  background-repeat: no-repeat;
+  position:absolute;
+  height: 1927px;
+  width: 1282px;
+  left: 0px;
+  top: 0px;
+}
+.stack{
+  position: absolute;
+ height: 498.3px;
+ left: 0px;
+ top: 1312px;
+ width: 1280px;
+}
+
+.wow2{
+  background-image: url(image/лилия.png);
+background-position: -273px 1661px ;
+
+  background-size: 1053px 3182px;
+  ;
+  background-repeat: no-repeat;
+  position:absolute;
+  height: 3182px;
+  width: 1553px;
+
+}
+.stack2{
+  position: absolute;
+ height: 942.89px;
+ left: 0px;
+ top: 3582.65px;
+ width: 1280px;
+}
+.wow3{
+  background-image: url(image/незабудка.png);
+background-position: -728px 3975px ;
+
+  background-size: 2340px 3064px;
+  ;
+  background-repeat: no-repeat;
+  position:absolute;
+  height: 3182px;
+  width: 1553px;
+
+}
+.stack3{
+  position: absolute;
+ height: 960.75px;
+ left: 0px;
+ top: 6485.58px;
+ width: 1280px;
 }
