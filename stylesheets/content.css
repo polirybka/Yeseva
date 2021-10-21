@@ -1,4 +1,8 @@
-body {
+body{
+  background-color: black;
+}
+.main{
+  background-color: white;
   margin: 0 auto;
   padding: 0;
   width: 1280px;
@@ -6,6 +10,8 @@ body {
   font-family: 'Yeseva One';
   overflow-x: hidden;
   position: relative;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 .txt1{
@@ -31,9 +37,9 @@ body {
   font-size: 27px;
   top:922px;
   left: 49px;
-  width: 660px;
+  width: 667px;
   height: 252px;
-  line-height: 31px;
+  line-height: 7px;
 }
 .txt4{
   color: black;
@@ -70,21 +76,21 @@ body {
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 27px;
-  top:1920px;
-  left: 428px;
-  width: 255px;
-  height: 42px;
+  font-size: 162px;
+  top:2074px;
+  left: 669px;
+  width: 69   px;
+  height: 187px;
 }
 .txt8{
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 27px;
-  top:1920px;
-  left: 428px;
-  width: 255px;
-  height: 42px;
+  font-size: 162px;
+  top:2124px;
+  left: 525px;
+  width: 91px;
+  height: 187px;
 }
 .txt9{
   color: black;
@@ -130,21 +136,21 @@ body {
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 27px;
-  top:1920px;
-  left: 428px;
-  width: 255px;
-  height: 42px;
+  font-size: 162px;
+  top:2669px;
+  left: 684px;
+  width: 106px;
+  height: 187px;
 }
 .txt14{
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 27px;
-  top:1920px;
-  left: 428px;
-  width: 255px;
-  height: 42px;
+  font-size: 162px;
+  top:2740px;
+  left: 536px;
+  width: 98px;
+  height: 187px;
 }
 .txt15{
   color: black;
@@ -160,11 +166,11 @@ body {
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  font-size: 27px;
-  top:2886px;
-  left: 868px;
-  width: 265px;
-  height: 33px;
+  font-size: 210px;
+  top:2856px;
+  left: 934px;
+  width: 112px;
+  height: 243px;
 }
 .txt17{
   color: black;
@@ -175,7 +181,7 @@ body {
   left: 640px;
   width: 528px;
   height: 128px;
-  line-height: 31px;
+  line-height: 7px;
 }
 .txt18{
   color: black;
@@ -241,6 +247,7 @@ body {
   color: black;
   font-family:Yeseva One;
   position: absolute;
+  z-index:.wow2;
   font-size: 400px;
   top:5022px;
   left: -832px;
@@ -268,7 +275,7 @@ body {
   right: 10px;
   width: 1261px;
   height: 645px;
-  line-height: 24px;
+  line-height: 12px;
   text-align: center;
 }
 .txt27{
@@ -431,31 +438,21 @@ left:0px;
 }
 .subtract4{
   position: absolute;
-  width: 1282px;
-  height: 166.27px;
+  width: 100%;
   top: 662px;
   left:0px;
 }
 .subtract5{
   position: absolute;
-  width: 1280px;
-  height: 292.39px;
+  width: 100%;
   top: 5434px;
   left:0px;
 }
 .subtract6{
   position: absolute;
-  width: 1280px;
-  height: 375.8px;
+  width:100%;
   top: 8888.52px;
   left:0px;
-}
-.eva1{
-  position: absolute;
-  width: 260px;
-  height: 629px;
-  top: 6613px;
-  left:536px;
 }
 .eva2{
   position: absolute;
@@ -487,10 +484,10 @@ left:0px;
 }
 .smallflower3{
   position: absolute;
-  width: 213px;
-  height: 555px;
-  top: 7505px;
-  left:495px;
+  width: 422px;
+  height: 552px;
+  top: 7508px;
+  left:286px;
 }
 .smallflower4{
   position: absolute;
@@ -501,10 +498,10 @@ left:0px;
 }
 .smallflower5{
   position: absolute;
-  width: 432px;
-  height: 479px;
+  width: 442px;
+  height: 501px;
   top: 7532px;
-  left:1036px;
+  left:1017px;
 }
 .durer1{
   position: absolute;
@@ -556,48 +553,121 @@ background-position: 727px -105px ;
   top: 0px;
 }
 .stack{
-  position: absolute;
- height: 498.3px;
+ position: absolute;
  left: 0px;
  top: 1312px;
- width: 1280px;
+ width: 100%;
 }
 
 .wow2{
   background-image: url(image/лилия.png);
-background-position: -273px 1661px ;
-
+  background-position: -273px 1661px ;
   background-size: 1053px 3182px;
-  ;
   background-repeat: no-repeat;
   position:absolute;
   height: 3182px;
   width: 1553px;
-
 }
 .stack2{
-  position: absolute;
- height: 942.89px;
+ position: absolute;
  left: 0px;
  top: 3582.65px;
  width: 1280px;
 }
+
+.container{
+  width: 2340;
+  height: 3064;
+  position: relative;
+}
 .wow3{
   background-image: url(image/незабудка.png);
-background-position: -728px 3975px ;
-
+  background-position: -728px 3975px ;
   background-size: 2340px 3064px;
-  ;
   background-repeat: no-repeat;
-  position:absolute;
+  position:relative;)
   height: 3182px;
   width: 1553px;
 
 }
 .stack3{
-  position: absolute;
- height: 960.75px;
+ position: absolute;
  left: 0px;
  top: 6485.58px;
  width: 1280px;
+}
+.evain{
+  position: absolute;
+  width: 260px;
+  height: 629px;
+  top: 6613px;
+  left:536px;
+}
+.circle1{
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  left: 454px;
+  top: 2030px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+}
+.circle2{
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  left: 690px;
+  top: 2090px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+}
+.circle3{
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  left: 515px;
+  top: 2256.85px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+}
+.circle4{
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  left: 546px;
+  top: 2539px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+}
+.circle5{
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  left: 570px;
+  top: 2785px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+}
+.circle6{
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  left: 694px;
+  top: 2773px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+}
+.духи1{
+  position: absolute;
+  width: 537px;
+  height: 537px;
+  top: 8172px;
+  left:249px;
+}
+.духи2{
+  position: absolute;
+  width: 531px;
+  height: 531px;
+  top: 8176px;
+  left:509px;
 }

@@ -41,12 +41,3 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-body {
-  margin: 0 auto;
-  padding: 0;
-  width: 1280px;
-  height: 10017px;
-  font-family: 'Yeseva One';
-  overflow-x: hidden;
-  position: relative;
-}
