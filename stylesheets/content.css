@@ -14,6 +14,10 @@ body{
   overflow-y: hidden;
 }
 
+@font-face {
+	font-family: 'Yeseva One';
+	src: url(/fonts/YesevaOne-Regular.ttf); 
+}
 .txt1{
   color: black;
   font-family:Yeseva One;
@@ -374,7 +378,7 @@ body{
   color: black;
   font-family:Yeseva One;
   position: absolute;
-  
+
   font-size: 27px;
   top:8909px;
   left: 607px;
